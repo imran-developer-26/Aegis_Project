@@ -77,18 +77,25 @@ python run_aegis_audit.py
 ## Intellectual Property Notice
 
 The core **Forensic Engine Logic** and **Proprietary Bias Injection Algorithms** are protected assets. This public repository serves as a **Technical Portfolio**. For enterprise licensing or a full-scale private demo, please contact the lead developer.
-Future Roadmap: Scaling the Vision
-AEGIS-HUMANITY is evolving. My roadmap includes:
-Audit-as-Code (AaC) Integration: We are moving toward a full AaC model, allowing developers to trigger automated AI audits directly within their CI/CD pipelines.
-Enterprise Pro Version: The upcoming Pro version will handle Millions of Records using distributed computing, delivering forensic results across terabytes of data in minutes.
-Real-time Monitoring: An active API layer to monitor production models 24/7 and trigger instant alerts upon detecting bias drift.
 
- Business Value: Saving Time, Labor, and Capital
+## Future Roadmap: Scaling the Vision
+AEGIS-HUMANITY is evolving. My roadmap includes:
+## Audit-as-Code (AaC) Integration: 
+We are moving toward a full AaC model, allowing developers to trigger automated AI audits directly within their CI/CD pipelines.
+## Enterprise Pro Version: 
+The upcoming Pro version will handle Millions of Records using distributed computing, delivering forensic results across terabytes of data in minutes.
+## Real-time Monitoring: 
+An active API layer to monitor production models 24/7 and trigger instant alerts upon detecting bias drift.
+
+## Business Value: Saving Time, Labor, and Capital
 Why is AEGIS-HUMANITY a game-changer for enterprises?
-Risk Mitigation (Cost Savings): Non-compliance with the EU AI Act can lead to fines up to €35M. AEGIS identifies these risks before they become legal nightmares.
-Operational Speed (Time Saving): What used to take human auditors weeks of manual sampling, our engine completes in seconds.
-Precision & Scalability (Labor Efficiency): Eliminating human error and manual labor by providing 100% mathematical accuracy through automated forensic trails.
----
+## Risk Mitigation (Cost Savings): 
+Non-compliance with the EU AI Act can lead to fines up to €35M. AEGIS identifies these risks before they become legal nightmares.
+## Operational Speed (Time Saving): 
+What used to take human auditors weeks of manual sampling, our engine completes in seconds.
+## Precision & Scalability (Labor Efficiency): 
+Eliminating human error and manual labor by providing 100% mathematical accuracy through automated forensic trails.
+
 
 ## Lead AI Audit Architect
 
