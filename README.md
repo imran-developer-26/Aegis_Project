@@ -29,7 +29,7 @@ Scan for Peer: Searches the database for Males with equal or lower Credit Scores
 Audit Trail: Generates a human-readable forensic trail for legal submission.
 
 Installation & SetupTo run the demo and generate audit reports, follow these steps:Bash# Clone the repository
-git clone https://github.com/imran-developer-26/aegis-project.git
+git clone https://github.com/imran-developer-26/Aegis_Project
 
 # Initialize Virtual Environment
 python -m venv venv
